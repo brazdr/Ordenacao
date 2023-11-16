@@ -1,0 +1,5 @@
+Programa Desenvolvido no Windows
+
+gcc main.c -o main
+
+Trocar a chavinha nas linhas 19 e 20, para definir qual registro será executado
